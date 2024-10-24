@@ -11,9 +11,3 @@ terraform {
     }
   }
 }
-
-
-provider "google" {
-  project = "ep-upskilling-appdev"
-  region  = "us-central1"
-}
